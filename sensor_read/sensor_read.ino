@@ -1,7 +1,7 @@
 //Author: Thomas Lloyd
 
-
 # include <Arduino_HTS221.h>
+#include <Wire.h>
 # include <WStream.h>
 
 void setup() {
