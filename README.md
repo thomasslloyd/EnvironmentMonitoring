@@ -7,10 +7,8 @@ This project aims to create a simple, open source environment optimisation tool 
 <h2>What do we want to learn?</h2>
 - We want the system to monitor the room and recommend a window state and heater dial.
 
-What is the problem?
-
+<h2>What is the problem?</h2>
 - The indoor and outdoor situations change, which makes it difficult to quantitatively moderate the ideal indoor climate.
-
 
 <h2>Unanswered Project Questions:</h2>
 - What is the best learning system to implement?
